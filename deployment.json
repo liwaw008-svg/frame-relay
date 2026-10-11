@@ -1,0 +1,12 @@
+{
+  "network": "StudioNet",
+  "account": "liwaw008-svg",
+  "deployerAddress": "0x05C0cc3F433F6e296f18117f558FdB9043434793",
+  "contractAddress": "0x73F2C2Fd606c0e90fCf97edEF7150C67D5B30112",
+  "deploymentTransaction": "0x80a46e3a2e6d599b9e21a76d6e3dee3672e8119c3101c79d88e6165b57f36b9e",
+  "deploymentConsensus": "MAJORITY_AGREE",
+  "deploymentExecution": "SUCCESS",
+  "sourceSha256": "588d3ee9628cd041d0a287e5d70e77171f2aafa85b66999c1be5f23587aa6dd5",
+  "sourceCommit": "b8115b2aa4d16357ce7980cf97b442492c5a7986",
+  "repository": "https://github.com/liwaw008-svg/frame-relay"
+}

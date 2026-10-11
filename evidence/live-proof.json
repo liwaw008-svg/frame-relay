@@ -1,0 +1,61 @@
+{
+  "relayId": "RELAY-1791758207",
+  "transactions": {
+    "open": "0x11a97373095b38a400800e29a320627d8c25ab784286f8f2aea3b51b7c2cb18e",
+    "fragment1": "0x7a37651ee87e3f24249d6f9214e0674279f617f748cb8f175f585e927779de52",
+    "fragment3": "0x04b070b0b4495f36564d160331d055446336df36d69aa48bbd427eabd2bab39c",
+    "fragment5": "0xdccc9e09a15cbf06988624f3d375b4a1971c40ffc2357194ebec23918a8b93ea",
+    "splice": "0x172b77808f26fa6435fe2e59d62b163d0e53a38aa09df488c75d1cbbfd3bd9c7"
+  },
+  "state": {
+    "chain_indexes": [
+      0,
+      1,
+      2
+    ],
+    "creators": [
+      "0xCAFA30BF94D4fb01146588a1b7901BD85E7DbD0f",
+      "0xAD049E0Edc298C97552eD60071a35bfc60181FD4",
+      "0x412d61db014fCdDda12e33b826f63B8ef9AC2E87"
+    ],
+    "deadline": 1791761809,
+    "digests": [
+      "708fd86c2db767d607bb500caa2ea88373552a031ae48233533fa177b0556d54",
+      "e28dbb3b73736e563451e9a7b5f18f29a230222bea2eca2ebc8743b04b591154",
+      "634c1e9ad80b2707e793f7277ab113748f78342a00ecdd3fe8cfc3eb887a3001"
+    ],
+    "fragment_count": 3,
+    "id": "RELAY-1791758207",
+    "owner": "0x05C0cc3F433F6e296f18117f558FdB9043434793",
+    "poses": [
+      "Folded",
+      "Open",
+      "Lifted",
+      "Resting"
+    ],
+    "rows": [
+      {
+        "duration_ticks": 12,
+        "entry_pose": 0,
+        "exit_pose": 1,
+        "index": 0
+      },
+      {
+        "duration_ticks": 18,
+        "entry_pose": 1,
+        "exit_pose": 2,
+        "index": 1
+      },
+      {
+        "duration_ticks": 10,
+        "entry_pose": 2,
+        "exit_pose": 3,
+        "index": 2
+      }
+    ],
+    "state": "COMPLETE",
+    "title": "Paper bird launch loop",
+    "total_ticks": 40
+  },
+  "disclosure": "The creator wallets are operator-controlled role fixtures, not independent artists."
+}

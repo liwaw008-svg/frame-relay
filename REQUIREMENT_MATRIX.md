@@ -2,8 +2,8 @@
 
 | Requirement | Mechanism | Status |
 |---|---|---|
-| Consensus-bound semantic mapping | Strict pose/duration normalization | UNVERIFIED |
-| Complete canonical output | One unique row per fragment | UNVERIFIED |
-| Deterministic result | Exhaustive longest compatible chain | UNVERIFIED |
-| Authorization and liveness | Frozen creators, replay block, expired paths | UNVERIFIED |
-| Exact deployed source | Transaction source comparison | UNVERIFIED |
+| Consensus-bound semantic mapping | Strict pose/duration normalization | PASS: forged pose rejected |
+| Complete canonical output | One unique row per fragment | PASS: strict direct suite |
+| Deterministic result | Exhaustive longest compatible chain | PASS: complete, partial, and reordered cases |
+| Authorization and liveness | Frozen creators, replay block, expired paths | PASS: targeted tests |
+| Exact deployed source | Transaction source comparison | PASS: exact byte match |
